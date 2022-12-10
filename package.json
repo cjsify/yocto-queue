@@ -1,0 +1,21 @@
+{
+  "name": "@cjsify/yocto-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsify/yocto-queue.git"
+  },
+  "keywords": [
+    "queue",
+    "yocto-queue"
+  ],
+  "author": "Sukka <https://skk.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjsify/yocto-queue/issues"
+  },
+  "homepage": "https://github.com/cjsify/yocto-queue#readme"
+}
